@@ -96,7 +96,7 @@ You can watch exactly which vector position produces each feature:
 git clone https://github.com/Shristy-byte/ecg-cardiac-vector-animation.git
 cd ecg-cardiac-vector-animation
 pip install -r requirements.txt
-python ecg_animation.py
+python ECG.py
 ```
 
 A matplotlib window opens and plays the animation at 5ms per frame
